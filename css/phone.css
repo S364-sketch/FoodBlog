@@ -30,6 +30,9 @@ padding: 10px 83px;
 #client{
     flex-wrap: wrap;
 }
+.client-item{
+    padding: 9px 10px;
+}
 #client img{
     width: 38px;
     padding: 0px 2px;
